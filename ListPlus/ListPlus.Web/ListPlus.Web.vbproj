@@ -68,6 +68,9 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WebGrease">
+      <HintPath>..\..\..\..\..\Downloads\LT977 - ASP.NET MVC\VB\Exercises\Ex 2.3-Starting Point\ListPlus\ListPlus.Web\bin\WebGrease.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.Web.Razor">
@@ -139,6 +142,7 @@
     <Compile Include="App_Start\RouteConfig.vb" />
     <Compile Include="Controllers\HomeController.vb" />
     <Compile Include="Controllers\ListingController.vb" />
+    <Compile Include="Controllers\ListingItemController.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -191,6 +195,7 @@
     <Content Include="Views\_ViewStart.vbhtml" />
     <Content Include="Views\Shared\Error.vbhtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\ListingItem\ItemList.vbhtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

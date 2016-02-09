@@ -20,7 +20,10 @@
                 @Html.ActionLink("ListPlus", "Index", "Home", Nothing, New With {.class = "navbar-brand"})
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right"></ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>@Html.ActionLink("My Lists", "List", "Listing")</li>
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                </ul>
             </div>
         </div>
     </div>
