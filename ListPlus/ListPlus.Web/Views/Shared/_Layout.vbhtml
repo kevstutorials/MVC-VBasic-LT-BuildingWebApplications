@@ -3,10 +3,10 @@
 <html>
 <head>
     <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewBag.Title</title>
-    @System.Web.Optimization.Styles.Render("~/Content/css")
-    @System.Web.Optimization.Scripts.Render("~/bundles/modernizr")
+    @Optimization.Styles.Render("~/Content/css")
+    @Optimization.Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
     <div class="navbar navbar-default navbar-fixed-top">
@@ -27,8 +27,8 @@
     <div class="container body-content">
         @RenderBody()
     </div>
-    @System.Web.Optimization.Scripts.Render("~/bundles/jquery")
-    @System.Web.Optimization.Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required:=False)
 </body>
 </html>
