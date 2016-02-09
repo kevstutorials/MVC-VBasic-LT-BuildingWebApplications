@@ -1,25 +1,15 @@
 ﻿@ModelType List(Of ListPlus.Web.ListingModel)
 
 @Code
-    Layout = Nothing
+    ViewBag.Title = "ListPlus Listings"
 End Code
 
-<!DOCTYPE html>
+<div> 
+    My Lists
+    <ul>
+        @For Each item In Model
+            @<li>@item.Title</li>
+        Next
+    </ul>
+</div>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>List</title>
-</head>
-<body>
-    <div> 
-        List
-        <ul>
-            @For Each item In Model
-                @<li>@item.Title</li>
-            Next
-
-        </ul>
-    </div>
-</body>
-</html>

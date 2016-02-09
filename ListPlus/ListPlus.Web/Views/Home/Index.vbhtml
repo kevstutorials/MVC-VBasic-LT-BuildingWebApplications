@@ -1,18 +1,8 @@
-﻿
-@*@Code
-    Layout = Nothing
-End Code*@
+﻿@Code
+    ViewBag.Title = "ListPlus Home Page"
+End Code
 
-<!DOCTYPE html>
+<div> 
+    @Html.ActionLink("My Lists", "List", "Listing")
+</div>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
-</head>
-<body>
-    <div> 
-        @Html.ActionLink("My Lists", "List", "Listing")
-    </div>
-</body>
-</html>

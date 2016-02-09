@@ -14,5 +14,10 @@ Namespace Controllers
             }
             Return View(theList)
         End Function
+
+        Function Index() As ActionResult
+            Return List()
+        End Function
+
     End Class
 End Namespace
