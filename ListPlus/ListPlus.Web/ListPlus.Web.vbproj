@@ -166,6 +166,9 @@
     <Content Include="packages.config" />
     <Content Include="Views\Listing\List.vbhtml" />
     <Content Include="Views\Home\Index.vbhtml" />
+    <Content Include="Views\Shared\_Layout.vbhtml" />
+    <Content Include="Views\Home\IndexLayout.vbhtml" />
+    <Content Include="Views\_ViewStart.vbhtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

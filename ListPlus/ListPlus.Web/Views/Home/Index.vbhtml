@@ -1,7 +1,7 @@
 ﻿
-@Code
+@*@Code
     Layout = Nothing
-End Code
+End Code*@
 
 <!DOCTYPE html>
 
