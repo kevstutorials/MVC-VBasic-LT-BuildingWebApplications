@@ -68,9 +68,9 @@ C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlu
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\bin\System.Web.Webpages.Razor.xml
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\bin\System.Web.Helpers.xml
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\bin\System.Web.Mvc.xml
-C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.vbprojResolveAssemblyReference.cache
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.Resources.resources
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.vbproj.GenerateResource.Cache
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.dll
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.xml
 C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.pdb
+C:\Users\KCarrier\Documents\GitHub\MVC-VBasic-LT-BuildingWebApplications\ListPlus\ListPlus.Web\obj\Debug\ListPlus.Web.vbprojResolveAssemblyReference.cache
